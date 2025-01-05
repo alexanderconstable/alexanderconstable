@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Waffles > Pancakes
+- ⚡ Fun fact: I like Waffles > Pancakes
 
 <!---
 alexanderconstable/alexanderconstable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
